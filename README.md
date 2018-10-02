@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+I'm aimp! I want to study programming and I hope, that it will succeed.
